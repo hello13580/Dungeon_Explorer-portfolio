@@ -15,7 +15,7 @@
 
 - **영감을 받은 게임:** 슬레이 더 스파이어(스테이지 구성, 무작위 맵 구조), 발더스 게이트(턴제 전투, 여러 직업의 협동), 엑스컴(그리드 이동)
 - **개발 방식:** 그리드·경로 탐색·턴 시스템·적 AI 등 핵심 시스템을 직접 설계하고 구현했습니다. AI 도구는 보조로만 제한적으로 사용했습니다(MCP 등 에디터 연동 도구는 사용하지 않음).
-- **후속 프로젝트:** 같은 기획을 AI 에이전트 중심으로 다시 만든 [Dungeon4Player](https://github.com/hello13580/Dungeon4Player-portfolio)에서 두 방식을 비교했습니다.
+- **후속 프로젝트:** 같은 기획을 AI 에이전트 중심으로 다시 만든 [Dungeon4Player](https://github.com/hello13580/Dungeon4Player-portfolio)([플레이 영상](https://youtu.be/a5PPxFND2oc))에서 두 방식을 비교했습니다.
 
 | 항목 | 내용 |
 |---|---|
