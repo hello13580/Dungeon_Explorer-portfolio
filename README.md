@@ -158,10 +158,3 @@ Assets/Scripts
 └─ Visual        오라·장판·검 궤적 연출
 ```
 
-## 6. 사용한 에셋
-
-- Low Poly Dungeons
-- Low Poly Medieval Fantasy Heroes / Biped Creatures (Polysplit Games)
-- Simple Nature Pack
-- Spells Pack
-- Scalable Grid Prototype Materials
